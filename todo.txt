@@ -1,0 +1,8 @@
+drink water
+drink milk
+lights on
+on music
+delete file
+off music
+camera on
+download video
